@@ -284,10 +284,15 @@ article a:active {
 
 code {
 	font-family: "Roboto Mono", monospace;
-	font-size: 80%;
+	background: var(--code);
+	padding-left: .5ex;
+	padding-right: .5ex;
 }
 
 pre code {
+	border-top: 1px solid #aaaaaa;
+	border-bottom: 1px solid #aaaaaa;
+	font-size: 80%;
 	display: block;
 	background: var(--code);
 	white-space: pre;

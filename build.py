@@ -9,16 +9,20 @@ import shutil
 from os import makedirs
 from os.path import getmtime
 
-PORT = 8080
-DEST = '../daeron.fr'
+PORT = 8080            # the port to be used by the local server
+SRC  = Path('.')       # the directory to read files from
+DEST = '../daeron.fr'  # the directory to save files to
 
 class Handler(http.server.SimpleHTTPRequestHandler):
 	def __init__(self, *args, **kwargs):
 		super().__init__(*args, directory = DEST, **kwargs)
 
-here = Path('.')
-md = markdown.Markdown(extensions=['pymdownx.tilde', 'pymdownx.caret', 'pymdownx.superfences'])
-
+md = markdown.Markdown(
+	extensions = [
+		'pymdownx.tilde',
+		'pymdownx.caret',
+		'pymdownx.superfences',
+		])
 
 for p in Path(DEST).glob('*'):
 	if not p.name.startswith('.'):
@@ -31,7 +35,7 @@ for p in Path(DEST).glob('*'):
 with open('html/index.html') as fid:
 	html = fid.read()
 
-for p in here.glob('md/*.md'):
+for p in SRC.glob('md/*.md'):
 
 	with open(p) as fid:
 		content = fid.read()
@@ -51,7 +55,7 @@ for p in here.glob('md/*.md'):
 	with open(outfile, 'w') as fid:
 		fid.write(html_with_content)
 
-for p in here.glob('static/**/*'):
+for p in SRC.glob('static/**/*'):
 	if p.name.startswith('.'):
 		continue
 	if p.is_file():
