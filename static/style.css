@@ -256,7 +256,8 @@ sub {
 	font-size: 75%;
 }
 
-.footer a:link {
+.footer a:link,
+.footer a:visited {
 	color: var(--footer);
 }
 
