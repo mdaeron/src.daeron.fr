@@ -115,21 +115,21 @@ for p in SRC.glob('md/*.md'):
 
 	with open(p) as fid:
 		content = fid.read()
-
-	if p.stem == 'index':
-		outfile = Path(f'{DEST}/index.html')
-		last_modif = ''
-	else:
-		outfile = Path(f'{DEST}/{p.stem}/index.html')
-		makedirs(outfile.parent, exist_ok = True)
-		last_modif = (
-			'Last modified on '
-			+ datetime.datetime.fromtimestamp(getmtime(p)).strftime('%d %b %Y')
-			)
+	
+	last_modif = (
+		'Last modified on '
+		+ datetime.datetime.fromtimestamp(getmtime(p)).strftime('%d %b %Y')
+		)
 
 	html_with_content = html.replace('__page__', p.stem)
 	html_with_content = html_with_content.replace('__last_modif__', last_modif)
 	html_with_content = html_with_content.replace('__markdown_page__', md.convert(content))
+
+	if p.stem == 'index':
+		outfile = Path(f'{DEST}/index.html')
+	else:
+		outfile = Path(f'{DEST}/{p.stem}/index.html')
+		makedirs(outfile.parent, exist_ok = True)
 
 	with open(outfile, 'w') as fid:
 		fid.write(html_with_content)

@@ -221,7 +221,7 @@ article h2 {
 	list-style-type: none;
 	text-indent: -25px;
 /* 	padding-left: 2em; */
-	line-height: 140%;
+	line-height: 120%;
 	margin-bottom: 2ex;
 }
 
@@ -252,9 +252,17 @@ sub {
 	padding-top: 50px ;
 	padding-bottom: 25px ;
 	text-align: center;
-	color: var(--footer);;
+	color: var(--footer);
 	font-size: 75%;
 }
+
+.footer a:link {
+	color: var(--footer);
+}
+
+.index .footer{
+	visibility: hidden;
+	}
 
 @media (min-width: 768px) {
 	article{
@@ -268,7 +276,7 @@ sub {
 article p {
 	margin-top: 3ex;
 	margin-bottom: 3ex;
-	line-height: 150%;
+	line-height: 140%;
 }
 
 article a:visited,
