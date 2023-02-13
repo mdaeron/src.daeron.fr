@@ -10,7 +10,7 @@
 /* 	--hover: #909090; */
 	--hover: #FCEBBD;
 	--shadow: #997C2F;
-	--code: #EEEEEE;
+	--code: #f4f4f4;
 	--footer: #909090;
 /* 	--logo: #909090; */
 	--logo: #BF9C3B;
@@ -296,6 +296,8 @@ code {
 	background: var(--code);
 	padding-left: .5ex;
 	padding-right: .5ex;
+	border: 1px solid #dddddd;
+
 }
 
 pre code {

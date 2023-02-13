@@ -21,8 +21,10 @@ md = markdown.Markdown(
 	extensions = [
 		'pymdownx.tilde',
 		'pymdownx.caret',
+		'pymdownx.highlight',
 		'pymdownx.superfences',
-		])
+		],
+	)
 
 for p in Path(DEST).glob('*'):
 	if not p.name.startswith('.'):
