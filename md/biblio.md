@@ -7,6 +7,7 @@
 <!--## In press-->
 
 ## 2020 – today
++ [(PDF)](Letulle-2023.pdf) T. Letulle, D. Gaspard, M. Daëron, F. Arnaud-Godet, A. Vinçon-Laugier, G. Suan, C. Lécuyer (2023). Multi-proxy assessment of brachiopod shell calcite as a potential archive of seawater temperature and oxygen isotope composition. _Biogeosciences_ [10.5194/bg-20-1381-2023](https://doi.org/10.5194/bg-20-1381-2023).
 + [(PDF)](Peral-2022.pdf) M. Peral, F. Bassinot, M. Daëron, D. Blamart, J. Bonnin, F. Jorissen, C. Kissel, E. Michel, C. Waelbroeck, H. Rebaubier, W.R. Gray (2022). On the combination of the planktonic foraminiferal Mg/Ca, clumped (Δ~47~) and conventional (δ^18^O) stable isotope paleothermometers in palaeoceanographic studies. _Geochimica et Cosmochimica Acta_ [10.1016/j.gca.2022.10.030](https://doi.org/10.1016/j.gca.2022.10.030)
 + [(PDF)](Chaillot-2022.pdf) J. Chaillot, S. Dasari, H. Fleurbaey, M. Daëron, J. Savarino, S. Kassi (2022). High-precision laser spectroscopy of H~2~S for simultaneous probing of multiple-sulfur isotopes. _Environmental Science: Advances_  [10.1039/d2va00104g](https://doi.org/10.1039/d2va00104g)
 + [(PDF)](Casado-2022.pdf) M. Casado, T. Stoltmann, A. Landais, N. Jobert, M. Daëron, F. Prié, S. Kassi (2022). High stability in near-infrared spectroscopy: adapting clock techniques to optical feedback. _Applied Physics B_  [10.1007/s00340-022-07774-2](https://doi.org/10.1007/s00340-022-07774-2)
