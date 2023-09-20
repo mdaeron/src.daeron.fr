@@ -2,7 +2,10 @@
 
 <!--## In preparation-->
 
-<!--## Under review-->
+## In review
++ [(PDF)](Daeron-Vermeesch-2023.pdf) M. Daëron and P. Vermeesch. Omnivariant Generalized Least Squares Regression: Theory, Geochronological Applications, and Making the Case for Reconciled Δ~47~  calibrations. In review, _Chemical Geology_.
++ M. Daëron and W. R. Gray. Revisiting oxygen-18 and clumped isotopes
+in planktic and benthic foraminifera. In review, _Paleoceanography and Paleoclimatology_.
 
 <!--## In press-->
 
