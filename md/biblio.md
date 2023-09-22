@@ -4,10 +4,11 @@
 
 ## In review
 + [(PDF)](Daeron-Vermeesch-2023.pdf) M. Daëron and P. Vermeesch. Omnivariant Generalized Least Squares Regression: Theory, Geochronological Applications, and Making the Case for Reconciled Δ~47~  calibrations. In review, _Chemical Geology_.
-+ M. Daëron and W. R. Gray. Revisiting oxygen-18 and clumped isotopes
-in planktic and benthic foraminifera. In review, _Paleoceanography and Paleoclimatology_.
 
-<!--## In press-->
+## In press
+
++ [(PDF)](Daeron-Gray-2023.pdf)cM. Daëron and W. R. Gray. Revisiting oxygen-18 and clumped isotopes
+in planktic and benthic foraminifera. In press, _Paleoceanography and Paleoclimatology_.
 
 ## 2020 – today
 + [(PDF)](Letulle-2023.pdf) T. Letulle, D. Gaspard, M. Daëron, F. Arnaud-Godet, A. Vinçon-Laugier, G. Suan, C. Lécuyer (2023). Multi-proxy assessment of brachiopod shell calcite as a potential archive of seawater temperature and oxygen isotope composition. _Biogeosciences_. [10.5194/bg-20-1381-2023](https://doi.org/10.5194/bg-20-1381-2023).
