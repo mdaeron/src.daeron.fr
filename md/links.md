@@ -5,14 +5,16 @@ Back in the day, no self-respecting website would do without a page listing othe
 ## My own stuff
 
 * [D47crunch](https://github.com/mdaeron/D47crunch) – Python library for processing carbonate clumped-isotope analyses
+* [D47calib](https://github.com/mdaeron/D47calib) – Generate, combine, display and apply Δ47 calibrations based on [OGLS](/biblio/Daeron-Vermeesch-2023.pdf)
 * [ClumpyCrunch](http://clumpycrunch.pythonanywhere.com/) – web application for processing Δ~47~ measurements using [D47crunch](https://github.com/mdaeron/D47crunch)
+* [ogls](https://github.com/mdaeron/OGLS) – Python library for [Omnivariant Generalized Least Squares](/biblio/Daeron-Vermeesch-2023.pdf) regression
 * [bibcites](https://github.com/mdaeron/bibcites) – update BibTeX files with [OpenCitations](https://opencitations.net) counts
 * [co2irms](https://github.com/mdaeron/co2irms) – tiny Python library for computations relevant to IRMS measurements of CO~2~
 
 ## Research
 
 * [How Scientists Can Avoid Cognitive Bias](http://backreaction.blogspot.com/2019/12/how-scientists-can-avoid-cognitive-bias.html) at BackReaction
-* [The Good Research Code Handbook](https://goodresearch.dev) [[pdf version](https://goodresearch.dev/_static/book.pdf)]
+* ([PDF](https://goodresearch.dev/_static/book.pdf)) [The Good Research Code Handbook](https://goodresearch.dev)
 
 ## Useful Python tools
 
