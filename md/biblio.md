@@ -7,7 +7,7 @@
 
 ## In press
 
-+ [(PDF)](Daeron-Gray-2023.pdf)cM. Daëron and W. R. Gray. Revisiting oxygen-18 and clumped isotopes
++ [(PDF)](Daeron-Gray-2023.pdf) M. Daëron and W. R. Gray (2023). Revisiting oxygen-18 and clumped isotopes
 in planktic and benthic foraminifera. In press, _Paleoceanography and Paleoclimatology_.
 
 ## 2020 – today
