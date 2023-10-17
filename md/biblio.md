@@ -3,7 +3,7 @@
 <!--## In preparation-->
 
 ## In review
-+ [(PDF)](Daeron-Vermeesch-2023.pdf) M. Daëron and P. Vermeesch. Omnivariant Generalized Least Squares Regression: Theory, Geochronological Applications, and Making the Case for Reconciled Δ~47~  calibrations. In review, _Chemical Geology_.
++ [(PDF)](Daeron-Vermeesch-2023.pdf) M. Daëron and P. Vermeesch. Omnivariant Generalized Least Squares Regression: Theory, Geochronological Applications, and Making the Case for Reconciled Δ~47~ Calibrations. In review, _Chemical Geology_.
 
 ## In press
 
