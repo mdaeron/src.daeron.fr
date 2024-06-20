@@ -6,12 +6,11 @@
 
 + [(PDF)](Chaillot-2024-preprint.pdf) J. Chaillot, S. Kassi, T. Clauzel, M. Pesnin, M. Casado, A. Landais, M. Daëron. Linking the oxygen-17 compositions of water and carbonate reference materials using infrared absorption spectroscopy of carbon dioxide. [10.31223/X53Q43](https://doi.org/10.31223/X53Q43)
 
-## In press
-
-+ M. Pesnin, C. Thaler, M. Daëron, S. Nomade, C. Rollion-Bard (2024). Mineralogical and environmental effects on the δ^13^C, δ^18^O, and clumped-isotope composition of modern bryozoans. _Chemical Geology_.
+<!--## In press-->
 
 ## 2020 – today
 
++ [(PDF)](Pesnin-2024.pdf) M. Pesnin, C. Thaler, M. Daëron, S. Nomade, C. Rollion-Bard (2024). Mineralogical and environmental effects on the δ^13^C, δ^18^O, and clumped-isotope composition of modern bryozoans. _Chemical Geology_. [10.1016/j.chemgeo.2024.122148](https://doi.org/10.1016/j.chemgeo.2024.122148)
 + [(PDF)](Daeron-Vermeesch-2024.pdf) M. Daëron and P. Vermeesch (2024). Omnivariant Generalized Least Squares Regression: theory, geochronological applications, and making the case for reconciled Δ~47~ calibrations. _Chemical Geology_. [10.1016/j.chemgeo.2023.121881](https://doi.org/10.1016/j.chemgeo.2023.121881)
 + J. Viallon, T. Choteau, E. Flores, F. Idrees, P. Moussay, R. I. Wielgosz, Z. Loh, C. Allison, L. Huang, A. Chivelscu, F. Camin, B. Krajnc, N. Ogrinc, A. de Lima Fioravante, M. Fasciotti, T. V. C. Monteiro, B. C. Garrido, E. C. P. Rego, W. Wollinger, C. R. Augusto, S. Michel, J. S. Lee, J. K. Lim, M. Daëron, S. Kassi, H. Moossen, L. Hai, Z. Zhou, A. Srivastava, T. Shimosaka, E. Mussel Webber, R. Hill−Pearce, P. Brewer, M. Chartrand, O. Rienitz, V. Ebert, L. Flierl, J. Braden-Behrens, J. Nwaboh, A. Emad, A. Simsek, I. Chubchenko (2023). Final report of CCQM-P204, comparison on CO~2~ isotope ratios in pure CO~2~. _Metrologia_. [10.1088/0026-1394/60/1A/08026](https://doi.org/10.1088/0026-1394/60/1A/08026)
 + [(PDF)](Daeron-Gray-2023.pdf) M. Daëron and W. R. Gray (2023). Revisiting oxygen-18 and clumped isotopes in planktic and benthic foraminifera. _Paleoceanography and Paleoclimatology_. [10.1029/2023PA004660](https://doi.org/10.1029/2023PA004660)
