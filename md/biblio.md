@@ -2,11 +2,11 @@
 
 <!--## In preparation-->
 
-## In review
+<!--## In review-->
 
-+ [(PDF)](Chaillot-2024-preprint.pdf) J. Chaillot, S. Kassi, T. Clauzel, M. Pesnin, M. Casado, A. Landais, M. Daëron. Linking the oxygen-17 compositions of water and carbonate reference materials using infrared absorption spectroscopy of carbon dioxide. [10.31223/X53Q43](https://doi.org/10.31223/X53Q43)
+## In press
 
-<!--## In press-->
++ [(PDF)](Chaillot-2024-preprint.pdf) J. Chaillot, S. Kassi, T. Clauzel, M. Pesnin, M. Casado, A. Landais, M. Daëron. Linking the oxygen-17 compositions of water and carbonate reference materials using infrared absorption spectroscopy of carbon dioxide. _Chemical Geology_. [10.31223/X53Q43](https://doi.org/10.31223/X53Q43)
 
 ## 2020 – today
 
