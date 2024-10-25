@@ -37,7 +37,7 @@ for p in Path(DEST).glob('*'):
 with open('html/index.html') as fid:
 	html = fid.read()
 
-for p in SRC.glob('md/*.md'):
+for p in SRC.glob('md/**/*.md'):
 
 	with open(p) as fid:
 		content = fid.read()
@@ -54,7 +54,10 @@ for p in SRC.glob('md/*.md'):
 	if p.stem == 'index':
 		outfile = Path(f'{DEST}/index.html')
 	else:
-		outfile = Path(f'{DEST}/{p.stem}/index.html')
+		loc = '/'.join(p.parts[1:-1])
+		if loc:
+			loc = loc + '/'
+		outfile = Path(f'{DEST}/{loc}{p.stem}/index.html')
 		makedirs(outfile.parent, exist_ok = True)
 
 	with open(outfile, 'w') as fid:

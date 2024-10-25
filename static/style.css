@@ -203,7 +203,7 @@ article h2 {
 	margin-bottom: 1.5ex;
 }
 
-.biblio ul, .links ul, .ramblings ul {
+.biblio ul, .links ul, .ramblings ul, .til ul {
 	font-size:100%;
 	margin-left: 25px;
 	margin-right: 25px;
@@ -230,12 +230,12 @@ article h2 {
 	margin-bottom: 1.5ex;
 }
 
-.ramblings li {
+.ramblings li, .til li {
 	line-height: 150%;
 	margin-bottom: 1.5ex;
 }
 
-.links li, .ramblings li {
+.links li, .ramblings li, .til li {
 	list-style: square;
 }
 
