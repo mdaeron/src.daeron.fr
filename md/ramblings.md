@@ -1,6 +1,6 @@
 # Ramblings
 
-I will be using this space to collect tidbits and opiniated thoughts that might be useful to others. I've learned so much from other websites/blogs over the years; feels right to start paying forward. This was inspired by Hynek Schlawack's [Today I Learned](https://hynek.me/til) section.
+I will be using this space to collect tidbits and opiniated thoughts that might be useful to others. I've learned so much from other websites/blogs over the years; it feels right to start paying forward. This was inspired by Hynek Schlawack's [Today I Learned](https://hynek.me/til) section.
 
 One of the items I hope to log here soon is how to add an RSS feed to this section. On one hand, how hard can it be? On the other, perhaps RSS is for old people now. Who knows?
 
