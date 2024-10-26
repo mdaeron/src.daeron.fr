@@ -20,14 +20,16 @@ All this messiness can be avoided by using [`uv`](https://docs.astral.sh/uv), a 
 To use `uv`, you first have to [install it](https://docs.astral.sh/uv/getting-started/installation), then modify your shebang accordingly. There is absolutely no need to install Python for this to work.
 
 ```py
-#! /usr/bin/env uv run python
+#! /usr/bin/env uv --no-project run python
 print("Nobody expects the Spanish Inquisition!")
 ```
+
+In the above code, `--no-project` means that if you were to invoke the script in a directory where another set of requirements normally applies (e.g., as a result of a [`pyproject.toml`](https://docs.astral.sh/uv/guides/projects/#pyprojecttoml) file), these additional requirements would be ignored while running your script.
 
 The true power of `uv` shebangs lies in the ability to specify dependencies within the shebang line. For example, if your script needs `numpy`:
 
 ```py
-#! /usr/bin/env uv run --with numpy python
+#! /usr/bin/env uv run --no-project --with numpy python
 from numpy import eye
 print(eye(5))
 ```
@@ -35,7 +37,7 @@ print(eye(5))
 One may require a specific version of `numpy`:
 
 ```py
-#! /usr/bin/env uv run --with numpy==2.1.2 python
+#! /usr/bin/env uv run --no-project --with numpy==2.1.2 python
 import numpy
 print(numpy.__version__)
 ```
@@ -43,19 +45,19 @@ print(numpy.__version__)
 One may also require more than one dependency:
 
 ```py
-#! /usr/bin/env uv run --with matplotlib==3.9.2 --with scipy==1.14.1 python
+#! /usr/bin/env uv run --no-project --with matplotlib==3.9.2 --with scipy==1.14.1 python
 ```
 
 Finally, one may require a specific version of Python:
 
 ```py
-#! /usr/bin/env uv run --with matplotlib --with scipy --python 3.11.6 python
+#! /usr/bin/env uv run --no-project --with matplotlib --with scipy --python 3.11.6 python
 ```
 
 As a fully functional example, here is a version of the `doi2bibtex` script described [here](/ramblings/doi2bibtex) which only requires `uv` to work properly:
 
 ```py
-#! /usr/bin/env uv run --with requests==2.32.3 --with pyperclip==1.9.0 python
+#! /usr/bin/env uv run --no-project --with requests==2.32.3 --with pyperclip==1.9.0 python
 
 import sys, requests, pyperclip
 
