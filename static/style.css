@@ -40,9 +40,17 @@ a{
 }
 
 ul{
-	list-style: none;
+	font-size:100%;
+	margin-left: 25px;
+	margin-right: 25px;
+	margin-top: 15px;
 }
 
+li {
+	list-style: square;
+	line-height: 150%;
+	margin-bottom: 1.5ex;
+}
 /* Header */
 .header{
 	background-color: var(--accent);
@@ -72,12 +80,11 @@ ul{
 	top: 50px;
 	background-color: var(--accent);
 	overflow: hidden;
-	
 }
 
 .menu a{
 	display: block;
-	padding: 20px 15px;
+	padding: 2px 15px;
 	color: var(--navfontcolor);
 
 }
@@ -89,6 +96,10 @@ ul{
 .nav{
 	max-height: 0;
 	transition: max-height .15s ease-out;
+}
+
+.nav li {
+	list-style: none;
 }
 
 /* Menu Icon */
@@ -208,12 +219,14 @@ article h3 {
 	margin-bottom: 1.5ex;
 }
 
+/* 
 .biblio ul, .links ul, .ramblings ul, .til ul {
 	font-size:100%;
 	margin-left: 25px;
 	margin-right: 25px;
 	margin-top: 15px;
 }
+ */
 
 .staticwebsite ol {
 	font-size:100%;
@@ -235,14 +248,18 @@ article h3 {
 	margin-bottom: 1.5ex;
 }
 
-.ramblings li, .til li {
+/* 
+.ramblings li {
 	line-height: 150%;
 	margin-bottom: 1.5ex;
 }
+ */
 
+/* 
 .links li, .ramblings li, .til li {
 	list-style: square;
 }
+ */
 
 sup {
 	font-size: 75%;
