@@ -203,6 +203,11 @@ article h2 {
 	margin-bottom: 1.5ex;
 }
 
+article h3 {
+	margin-top: 2ex;
+	margin-bottom: 1.5ex;
+}
+
 .biblio ul, .links ul, .ramblings ul, .til ul {
 	font-size:100%;
 	margin-left: 25px;
@@ -302,7 +307,7 @@ code {
 	padding-left: .5ex;
 	padding-right: .5ex;
 	border: 1px solid #dddddd;
-
+	font-size: 90%;
 }
 
 pre code {

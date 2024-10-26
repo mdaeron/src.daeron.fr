@@ -39,6 +39,10 @@ with open('html/index.html') as fid:
 
 for p in SRC.glob('md/**/*.md'):
 
+	if p.stem.startswith('_'):
+# 		print(f'skipping {p.stem}')
+		continue
+
 	with open(p) as fid:
 		content = fid.read()
 	
