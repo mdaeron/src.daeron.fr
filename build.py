@@ -46,8 +46,15 @@ for p in SRC.glob('md/**/*.md'):
 		'Last modified on '
 		+ datetime.datetime.fromtimestamp(getmtime(p)).strftime('%d %b %Y')
 		)
+	
+	
+	try:
+		title = [l for l in content.split('\n') if l.startswith('# ')][0].strip().replace('# ', '')
+	except IndexError:
+		title = 'daeron.fr'
 
 	html_with_content = html.replace('__page__', p.stem)
+	html_with_content = html_with_content.replace('__title__', title)
 	html_with_content = html_with_content.replace('__last_modif__', last_modif)
 	html_with_content = html_with_content.replace('__markdown_page__', md.convert(content))
 
