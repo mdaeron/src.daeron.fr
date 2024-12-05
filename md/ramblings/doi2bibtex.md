@@ -38,6 +38,6 @@ pyperclip.copy(bib)   # copy the result to the clipboard
 print(bib)            # and print it out as an indicator of success
 ```
 
-Save the above as `doi2bibtex`, make it executable (this should require something like `chmod +x doi2bibtex` assuming you are on a [POSIX](https://en.wikipedia.org/wiki/POSIX) system), move it to somewhere on your [path](https://en.wikipedia.org/wiki/PATH_(variable)), and voilà, now you can now simply type `doi2bibtex` followed by any valid DOI, wait to the response to print out, and immediately copy the results into your favorite bibliographic piece of software.
+Save the above as `doi2bibtex`, make it executable (this should require something like `chmod +x doi2bibtex` assuming you are on a [POSIX](https://en.wikipedia.org/wiki/POSIX) system), move it to somewhere on your [path](https://en.wikipedia.org/wiki/PATH_(variable)), and voilà, now you can simply type `doi2bibtex` followed by any valid DOI, wait to the response to print out, and immediately copy the results into your favorite bibliographic piece of software.
 
 For now, the Python code above requires a functional Python installation, along with the `requests` and `pyperclip` dependencies, which is [no fun at all](https://xkcd.com/1987). See [here](/ramblings/uv-shebang) for a painless solution to this problem.
