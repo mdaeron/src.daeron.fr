@@ -3,12 +3,11 @@
 <!--## In preparation-->
 
 <!--## In review-->
-
-## In press
-
-+ [(PDF)](Chaillot-2024-inpress.pdf) J. Chaillot, S. Kassi, T. Clauzel, M. Pesnin, M. Casado, A. Landais, M. Daëron. Linking the oxygen-17 compositions of water and carbonate reference materials using infrared absorption spectroscopy of carbon dioxide. _Chemical Geology_. [10.1016/j.chemgeo.2024.122450](https://doi.org/10.1016/j.chemgeo.2024.122450)
+<!--## In press-->
 
 ## 2020 – today
+
++ [(PDF)](Chaillot-2024.pdf) J. Chaillot, S. Kassi, T. Clauzel, M. Pesnin, M. Casado, A. Landais, M. Daëron. Linking the oxygen-17 compositions of water and carbonate reference materials using infrared absorption spectroscopy of carbon dioxide. _Chemical Geology_. [10.1016/j.chemgeo.2024.122450](https://doi.org/10.1016/j.chemgeo.2024.122450)
 
 + [(PDF)](Fabbi-2024.pdf) S. Fabbi, M. Borrelli, G. Innamorati, L. Aldega, M. Daëron, E. Perri, M. Santantonio (2024). Pervasive calcite veins and cleavage dilation in low-grade metamorphic rocks as a marker of lower Jurassic rift-basin margins: A signature of microbial colonization. _Marine & Petroleum Geology_. [10.1016/j.marpetgeo.2024.107115](https://doi.org/10.1016/j.marpetgeo.2024.107115)
 + [(PDF)](Casado-2024.pdf) M. Casado, A. Landais, T. Stoltmann, J. Chaillot, M. Daëron, F. Prié, B. Bordet, S. Kassi. Reliable water vapour isotopic composition measurements at low humidity using frequency-stabilised cavity ring-down spectroscopy. _Atmospheric Measurement Techniques_. [10.5194/amt-17-4599-2024](https://doi.org/10.5194/amt-17-4599-2024)
