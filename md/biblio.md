@@ -7,6 +7,8 @@
 
 ## 2020 – today
 
++ [(PDF)](Mouthereau-2025.pdf) F. Mouthereau, L. Boschetti, M. Larrey, S. Brichau, N.E. Beaudoin, D. Huyghe, N.M.W. Roberts, M. Daëron (2025). Tracking lithospheric delamination and surface processes across the Messinian salinity crisis. _Nature Communications_. [10.1038/s41467-025-59481-z](https://doi.org/10.1038/s41467-025-59481-z)
+
 + [(PDF)](Beaudoin-2025.pdf) N. Beaudoin, D. Koehn, E. Aharonov, A. Billi, M. Daëron, A. Boyce (2025). Reconstruction of the Temperature Conditions of Burial-Related Pressure Solution by Clumped Isotopes Validates the Analysis of Sedimentary Stylolites Roughness as a Reliable Depth Gauge. _Minerals_. [10.3390/min15010073](https://doi.org/10.3390/min15010073)
 
 + [(PDF)](Chaillot-2025.pdf) J. Chaillot, S. Kassi, T. Clauzel, M. Pesnin, M. Casado, A. Landais, M. Daëron (2025). Linking the oxygen-17 compositions of water and carbonate reference materials using infrared absorption spectroscopy of carbon dioxide. _Chemical Geology_. [10.1016/j.chemgeo.2024.122450](https://doi.org/10.1016/j.chemgeo.2024.122450)
