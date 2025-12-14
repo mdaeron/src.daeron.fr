@@ -3,9 +3,12 @@
 <!--## In preparation-->
 
 <!--## In review-->
-<!--## In press-->
+## In press
+
++ M. Bernecker, M. Daëron, P. Tauxe Staudigel, S. Hofmann, J. Fiebig (in press). D4Xgui: a tool for baseline correction and standardization of carbonate clumped isotope raw data. _SoftwareX _.
 
 ## 2020 – today
+
 
 + [(PDF)](Peral-2025-proof.pdf) M. Peral, T. Caley, B. Malaizé, T. Extier, L. Rossignol, H. Barathieu, É. Dassié,  F. Bassinot,  D. Blamart,  M. Daëron (2025). Understanding the relationship between foraminiferal Mg/Ca and clumped isotope thermometers. _Geochimica et Cosmochimica Acta_. [10.1016/j.gca.2025.08.011](https://doi.org/10.1016/j.gca.2025.08.011)
 
