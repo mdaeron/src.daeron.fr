@@ -9,7 +9,7 @@
 
 ## 2020 – today
 
-+ [(PDF)](Bernecker-2026.pdf) M. Bernecker, M. Daëron, P. Tauxe Staudigel, S. Hofmann, J. Fiebig (in press). D4Xgui: A tool for baseline correction and standardization of carbonate clumped isotope raw data. _SoftwareX_. [10.1016/j.softx.2025.102492](https://doi.org/10.1016/j.softx.2025.102492)
++ [(PDF)](Bernecker-2026.pdf) M. Bernecker, M. Daëron, P. T. Staudigel, S. Hofmann, J. Fiebig (in press). D4Xgui: A tool for baseline correction and standardization of carbonate clumped isotope raw data. _SoftwareX_. [10.1016/j.softx.2025.102492](https://doi.org/10.1016/j.softx.2025.102492)
 + [(PDF)](Peral-2025.pdf) M. Peral, T. Caley, B. Malaizé, T. Extier, L. Rossignol, H. Barathieu, É. Dassié,  F. Bassinot,  D. Blamart,  M. Daëron (2025). Understanding the relationship between foraminiferal Mg/Ca and clumped isotope thermometers. _Geochimica et Cosmochimica Acta_. [10.1016/j.gca.2025.08.011](https://doi.org/10.1016/j.gca.2025.08.011)
 + [(PDF)](Mouthereau-2025.pdf) F. Mouthereau, L. Boschetti, M. Larrey, S. Brichau, N.E. Beaudoin, D. Huyghe, N.M.W. Roberts, M. Daëron (2025). Tracking lithospheric delamination and surface processes across the Messinian salinity crisis. _Nature Communications_. [10.1038/s41467-025-59481-z](https://doi.org/10.1038/s41467-025-59481-z)
 + [(PDF)](Beaudoin-2025.pdf) N. Beaudoin, D. Koehn, E. Aharonov, A. Billi, M. Daëron, A. Boyce (2025). Reconstruction of the Temperature Conditions of Burial-Related Pressure Solution by Clumped Isotopes Validates the Analysis of Sedimentary Stylolites Roughness as a Reliable Depth Gauge. _Minerals_. [10.3390/min15010073](https://doi.org/10.3390/min15010073)
