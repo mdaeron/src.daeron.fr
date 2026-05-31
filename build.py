@@ -1,7 +1,9 @@
 #! /usr/bin/env python3
 
 from pathlib import Path
+import sys
 import markdown
+import pymdownx.superfences
 import datetime
 import http.server
 import socketserver
@@ -11,7 +13,7 @@ from os.path import getmtime
 
 PORT = 8080            # the port to be used by the local server
 SRC  = Path('.')       # the directory to read files from
-DEST = '../daeron.fr'  # the directory to save files to
+DEST = sys.argv[1] if len(sys.argv) > 1 else '../daeron.fr' # the directory to save files to
 
 class Handler(http.server.SimpleHTTPRequestHandler):
 	def __init__(self, *args, **kwargs):
@@ -24,7 +26,18 @@ md = markdown.Markdown(
 		'pymdownx.highlight',
 		'pymdownx.superfences',
 		],
-	)
+	extension_configs={
+		'pymdownx.superfences': {
+			'custom_fences': [
+				{
+					'name': 'mermaid',
+					'class': 'mermaid',
+					'format': pymdownx.superfences.fence_div_format,
+				}
+			]
+		}
+	}
+)
 
 for p in Path(DEST).glob('*'):
 	if not p.name.startswith('.'):
@@ -32,7 +45,7 @@ for p in Path(DEST).glob('*'):
 			p.unlink()
 		elif p.is_dir():
 			shutil.rmtree(p)
-		
+
 
 with open('html/index.html') as fid:
 	html = fid.read()
@@ -45,13 +58,13 @@ for p in SRC.glob('md/**/*.md'):
 
 	with open(p) as fid:
 		content = fid.read()
-	
+
 	last_modif = (
 		'Last modified on '
 		+ datetime.datetime.fromtimestamp(getmtime(p)).strftime('%d %b %Y')
 		)
-	
-	
+
+
 	try:
 		title = [l for l in content.split('\n') if l.startswith('# ')][0].strip().replace('# ', '')
 	except IndexError:
@@ -80,7 +93,7 @@ for p in SRC.glob('static/**/*'):
 	if p.is_file():
 		newfile = Path(f'{DEST}/' + '/'.join(p.parts[1:]))
 		makedirs(newfile.parent, exist_ok = True)
-		shutil.copy(p, newfile)		
+		shutil.copy(p, newfile)
 
 Path(f'{DEST}/.nojekyll').touch()
 
@@ -94,5 +107,3 @@ with socketserver.TCPServer(('', PORT), Handler) as httpd:
 
 	except KeyboardInterrupt:
 		pass
-
-

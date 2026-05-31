@@ -1,26 +1,20 @@
 [project]
 name = "src-daeron-fr"
+version = "1.0.0"
+description = "Build static site"
 authors = [{name = "Mathieu Daëron", email = "mathieu@daeron.fr"}]
 readme = "readme.md"
-license = {file = "LICENSE"}
-dynamic = ["version", "description"]
+license = "MIT"
 classifiers = ["License :: OSI Approved :: MIT License"]
-requires-python = ">=3.13"
+requires-python = ">=3.14"
+dependencies = [
+    "markdown>=3.10.2",
+    "pymdown-extensions>=10.21.3",
+]
 
 [project.urls]
 Home = "https://github.com/mdaeron/src.daeron.fr"
 
-[tool.pixi.project]
-channels = ["conda-forge"]
-platforms = ["osx-arm64"]
-
-[tool.pixi.system-requirements]
-macos = "12.7.5"
-
-[tool.pixi.tasks]
-build = {cmd = 'python build.py'}
-
-[tool.pixi.dependencies]
-pdoc = ">=14.4.0,<15"
+[dependencies]
 markdown = ">=3.6,<4"
 pymdown-extensions = ">=10.11.2,<11"
