@@ -9,6 +9,7 @@
 
 ## 2020 – today
 
++ [(PDF)](Lacombe-2027-preproof.pdf) O. Lacombe, N. E. Beaudoin, A. Zeboudj, J. Lamarche, J.-P. Callot, L. Emmanuel, M. Daëron, N. Espurt, and S. Revillon (2027). Paleofluid systems and depth-temperature-deformation-time paths of fractured mesozoic carbonate reservoirs in Provence (SE France) : insights from the multi-proxy geochemical-tectonic analysis of mineralized mesostructures. _Journal of Structural Geology_. [10.1016/j.jsg.2026.105846](http://doi.org/10.1016/j.jsg.2026.105846)
 + [(PDF)](Fantasia-2026.pdf) A. Fantasia, T. Letulle, M. A. Rogov, A. P. Ippolitov, O. A. Lutikov, N. Zverkov, A. Vinçon-Laugier, T. Adatte, J. E. Spangenberg, G. Paris, J. E. Martin, C. Lécuyer, B. Krizova, M. Daëron, G. Suan (2026). An expanded polar record of the Toarcian hyperthermal from Vilyui River Basin (Siberia). _Global and Planetary Change_. [10.1016/j.gloplacha.2026.105588](https://doi.org/10.1016/j.gloplacha.2026.105588)
 + [(PDF)](Marlot-2026.pdf) L. Marlot, D. Huyghe, J. Briais, M. Daëron, C. Flehoc, L. Emmanuel, D. Merle, O. Aguerre-Chariol, F. Lartaud (2026). Middle Eocene hyperthermal seasonality from Paris Basin marine mollusks. _Paleoceanography and Paleoclimatology_. [10.1016/j.palaeo.2026.113547](https://doi.org/10.1016/j.palaeo.2026.113547)
 + [(PDF)](Bernecker-2026.pdf) M. Bernecker, M. Daëron, P. T. Staudigel, S. Hofmann, J. Fiebig (2026). D4Xgui: A tool for baseline correction and standardization of carbonate clumped isotope raw data. _SoftwareX_. [10.1016/j.softx.2025.102492](https://doi.org/10.1016/j.softx.2025.102492)
