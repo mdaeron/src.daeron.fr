@@ -2,9 +2,10 @@
 
 <!--## In preparation-->
 
-<!--## In review-->
-<!-- ## In press -->
+## In review
++ [(PDF)](D17Ocalib-preprint.pdf) M. Daëron, T. Clauzel, J. Chaillot, M. Pesnin, J. J. Jautzy, B. R. Fosu, S. Kassi. Triple oxygen isotope equilibrium between calcite and water: new constraints over 8–200 °C and their metrological implications. [10.31223/X5DN7B](https://doi.org/10.31223/X5DN7B)
 
+<!-- ## In press -->
 
 ## 2020 – today
 
